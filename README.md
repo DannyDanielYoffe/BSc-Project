@@ -1,5 +1,5 @@
 # BSc-Project
-Designing an Image Sensor Array for Hardware Implemented Neural Network Applications”.
+"Designing an Image Sensor Array for Hardware Implemented Neural Network Applications”.
 Project was submitted as part of the requirements for the bachelor’s degree in the Faculty of Engineering, Bar-Ilan University.
 For full information see "Designing_an_Image_Sensor_Array_for_Hardware_Implemented_Neural_Network_Applications.pdf"  PDF file.
 
